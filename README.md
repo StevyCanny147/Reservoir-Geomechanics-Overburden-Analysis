@@ -2,6 +2,7 @@
 
 **Stevy Canny Louhenapessy**  
 Institut Teknologi Sumatera
+
 Drilling Engineering
 Pore Pressure Module  
 Reservoir Geomechanics Analysis (Barnett Shale)
