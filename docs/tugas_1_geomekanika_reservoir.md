@@ -1,4 +1,4 @@
-# Tugas 1: Menghitung Overburden Stress dan Pore Pressure
+# Menghitung Overburden Stress dan Pore Pressure
 **Mata Kuliah:** Teknik Permboran II
 **Topik Kuliah:** Pore Pressure
 **Sumber Referensi:** [Stanford Online - Reservoir Geomechanics](https://online.stanford.edu/courses/soeees-ygeoresgeo202-reservoir-geomechanics)
