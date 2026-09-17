@@ -1,0 +1,4 @@
+# Placeholder File
+This folder contains input datasets used for reservoir geomechanics analysis.
+Example: BarnettShaleData.txt (Depth vs Density log data)
+Do not delete this file unless you add actual data files.
