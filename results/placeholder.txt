@@ -1,0 +1,3 @@
+# Placeholder File
+This folder stores output results from the reservoir geomechanics analysis.
+Example: Hasil_Analisis_Geomekanika_Barnett.xlsx, Grafik_Multiplot_Barnett.png
